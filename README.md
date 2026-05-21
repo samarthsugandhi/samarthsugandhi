@@ -28,24 +28,24 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" vspace="10" /> &nbsp; <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&color=00F2FE&height=35&lines=Achievements+Arena" alt="Heading" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" align="center" /> &nbsp; <span style="color:#00F2FE; font-family:'Fira Code', monospace; font-weight:700;">Achievements Arena</span>
 
 <details open>
 <summary><b>✨ Expand Core Track Record</b></summary>
 <br>
 
-> [cite_start]🥇 **1st Place** – WAVE 3.0 National Level 24-Hour Hackathon 
+> 🥇 **1st Place** – WAVE 3.0 National Level 24-Hour Hackathon
 >
-> [cite_start]🚀 **Shortlisted (Round 2)** – Cognizant Technoverse Hackathon 2026 *(AI/Agents Track)* 
+> 🚀 **Shortlisted (Round 2)** – Cognizant Technoverse Hackathon 2026 *(AI/Agents Track)*
 >
-> [cite_start]🏆 **Winner** – Innovatex Event, Presidency University 
+> 🏆 **Winner** – Innovatex Event, Presidency University
 >
-> [cite_start]🏅 **1st Prize** – Project Contest, Basaveshwar Engineering College 
+> 🏅 **1st Prize** – Project Contest, Basaveshwar Engineering College
 </details>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" vspace="10" /> &nbsp; <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&color=00F2FE&height=35&lines=Technical+Ecosystem" alt="Heading" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" align="center" /> &nbsp; <span style="color:#00F2FE; font-family:'Fira Code', monospace; font-weight:700;">Technical Ecosystem</span>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,mongodb,firebase,mysql,git&perline=6" alt="Engineering Skills Matrix" />
@@ -53,7 +53,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" vspace="10" /> &nbsp; <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&color=00F2FE&height=35&lines=Featured+Deployments" alt="Heading" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" align="center" /> &nbsp; <span style="color:#00F2FE; font-family:'Fira Code', monospace; font-weight:700;">Featured Deployments</span>
 
 ### ⚡ [BEC Vortex](https://becvortex.onrender.com) | Unified Campus SaaS
 * Built a multi-role web operating ecosystem supporting modern campus logic paths across distinct access scopes.
@@ -79,7 +79,7 @@
 * Integrated dynamic event scheduling modules alongside highly interactive responsive registration user interfaces.
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" vspace="10" /> &nbsp; <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&color=00F2FE&height=35&lines=Engine+Analytics" alt="Heading" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" align="center" /> &nbsp; <span style="color:#00F2FE; font-family:'Fira Code', monospace; font-weight:700;">Engine Analytics</span>
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=samarthsugandhi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=00f2fe&text_color=ffffff" width="48%" alt="GitHub Account Metrics" />
