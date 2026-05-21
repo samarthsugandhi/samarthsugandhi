@@ -34,9 +34,13 @@
 <summary><b>✨ Expand Core Track Record</b></summary>
 <br>
 
-> 🥇 **1st Place** – WAVE 3.0 National Level 24-Hour Hackathon 
-> 🚀 **Shortlisted (Round 2)** – Cognizant Technoverse Hackathon 2026 *(AI/Agents Track)* > 🏆 **Winner** – Innovatex Event, Presidency University 
-> 🏅 **1st Prize** – Project Contest, Basaveshwar Engineering College 
+> [cite_start]🥇 **1st Place** – WAVE 3.0 National Level 24-Hour Hackathon 
+>
+> [cite_start]🚀 **Shortlisted (Round 2)** – Cognizant Technoverse Hackathon 2026 *(AI/Agents Track)* 
+>
+> [cite_start]🏆 **Winner** – Innovatex Event, Presidency University 
+>
+> [cite_start]🏅 **1st Prize** – Project Contest, Basaveshwar Engineering College 
 </details>
 
 ---
